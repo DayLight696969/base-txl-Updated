@@ -1,0 +1,491 @@
+﻿  core.cpp
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,32): error C2039: 'format': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\future(37,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,158): error C2039: 'vformat': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\future(37,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,180): error C2039: 'make_format_args': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\future(37,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+C:\Users\Alex\Desktop\base-txl-main\base\hooking\detour\detour.hpp(2,10): fatal  error C1083: Cannot open include file: 'MinHook.h': No such file or directory
+  entrypoint.cpp
+  fiber.cpp
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,32): error C2039: 'format': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\future(37,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,158): error C2039: 'vformat': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\future(37,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,180): error C2039: 'make_format_args': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\future(37,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+  hooking.cpp
+C:\Users\Alex\Desktop\base-txl-main\base\hooking\detour\detour.hpp(2,10): fatal  error C1083: Cannot open include file: 'MinHook.h': No such file or directory
+  invoker.cpp
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,32): error C2039: 'format': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\unordered_map(24,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,158): error C2039: 'vformat': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\unordered_map(24,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,180): error C2039: 'make_format_args': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\unordered_map(24,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+  log.cpp
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,32): error C2039: 'format': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\future(37,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,158): error C2039: 'vformat': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\future(37,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,180): error C2039: 'make_format_args': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\future(37,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.cpp(35,23): error C2039: 'format': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\future(37,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.cpp(35,29): error C3861: 'format': identifier not found
+  memory.cpp
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,32): error C2039: 'format': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\filesystem(39,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,158): error C2039: 'vformat': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\filesystem(39,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,180): error C2039: 'make_format_args': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\filesystem(39,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+C:\Users\Alex\Desktop\base-txl-main\base\memory\memory.cpp(95,39): error C2079: 'result_as_hex' uses undefined class 'std::basic_stringstream<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\Alex\Desktop\base-txl-main\base\memory\memory.cpp(96,35): error C2297: '<<': not valid as right operand has type 'std::ios_base &(__cdecl *)(std::ios_base &)'
+C:\Users\Alex\Desktop\base-txl-main\base\memory\memory.cpp(96,47): error C2297: '<<': not valid as right operand has type 'std::ios_base &(__cdecl *)(std::ios_base &)'
+C:\Users\Alex\Desktop\base-txl-main\base\memory\memory.cpp(96,65): warning C4552: '<<': result of expression not used
+C:\Users\Alex\Desktop\base-txl-main\base\memory\memory.cpp(112,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  common.cpp
+  pointers.cpp
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,32): error C2039: 'format': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\unordered_map(24,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,158): error C2039: 'vformat': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\unordered_map(24,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,180): error C2039: 'make_format_args': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\unordered_map(24,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+C:\Users\Alex\Desktop\base-txl-main\base\hooking\detour\detour.hpp(2,10): fatal  error C1083: Cannot open include file: 'MinHook.h': No such file or directory
+  script.cpp
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,32): error C2039: 'format': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\unordered_map(24,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,158): error C2039: 'vformat': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\unordered_map(24,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,180): error C2039: 'make_format_args': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\unordered_map(24,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(46,59): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(46,59): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(46,159): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(46,159): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(46,14): error C2660: 'base::interface::draw_rect': function does not take 1 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.hpp(16,8): message : see declaration of 'base::interface::draw_rect'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(46,14): message : while trying to match the argument list '(RGBA)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(53,66): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(53,66): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(53,166): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(53,166): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(53,14): error C2660: 'base::interface::draw_rect': function does not take 1 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.hpp(16,8): message : see declaration of 'base::interface::draw_rect'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(53,14): message : while trying to match the argument list '(RGBA)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(66,65): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(66,65): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(66,165): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(66,165): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(66,14): error C2660: 'base::interface::draw_rect': function does not take 1 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.hpp(16,8): message : see declaration of 'base::interface::draw_rect'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(66,14): message : while trying to match the argument list '(RGBA)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(84,26): error C2079: 'ss' uses undefined class 'std::basic_stringstream<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(91,13): error C2677: binary '<<': no global operator found which takes type 'std::string' (or there is no acceptable conversion)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\cstddef(31,27): message : could be 'std::byte std::operator <<(const std::byte,const _IntType) noexcept'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(91,21): message : 'std::byte std::operator <<(const std::byte,const _IntType) noexcept': could not deduce template argument for '__formal'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xstring(1862,32): message : or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string_view<_Elem,_Traits>)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(91,10): message : 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string_view<_Elem,_Traits>)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xstring(5363,32): message : or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(91,10): message : 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\memory(1915,32): message : or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(91,10): message : 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\memory(3599,32): message : or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(91,10): message : 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\thread(228,37): message : or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,std::thread::id)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(91,10): message : 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,std::thread::id)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ostream(681,32): message : or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(91,10): message : 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ostream(725,32): message : or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(91,10): message : 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ostream(761,31): message : or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(91,10): message : 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ostream(806,31): message : or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(91,10): message : 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ostream(844,32): message : or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(91,10): message : 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ostream(887,32): message : or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(91,10): message : 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ostream(923,31): message : or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(91,10): message : 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ostream(929,31): message : or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(91,10): message : 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ostream(934,31): message : or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(91,10): message : 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ostream(940,31): message : or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(91,10): message : 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ostream(998,9): message : or       '_Ostr &&std::operator <<(_Ostr &&,const _Ty &)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(91,21): message : '_Ostr &&std::operator <<(_Ostr &&,const _Ty &)': could not deduce template argument for '__formal'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ostream(1075,32): message : or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(91,10): message : 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'int'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(94,13): error C2677: binary '<<': no global operator found which takes type 'std::string' (or there is no acceptable conversion)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\cstddef(31,27): message : could be 'std::byte std::operator <<(const std::byte,const _IntType) noexcept'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(94,21): message : 'std::byte std::operator <<(const std::byte,const _IntType) noexcept': could not deduce template argument for '__formal'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xstring(1862,32): message : or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string_view<_Elem,_Traits>)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(94,10): message : 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string_view<_Elem,_Traits>)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xstring(5363,32): message : or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(94,10): message : 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\memory(1915,32): message : or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(94,10): message : 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\memory(3599,32): message : or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(94,10): message : 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\thread(228,37): message : or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,std::thread::id)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(94,10): message : 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,std::thread::id)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ostream(681,32): message : or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(94,10): message : 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ostream(725,32): message : or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(94,10): message : 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ostream(761,31): message : or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(94,10): message : 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ostream(806,31): message : or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(94,10): message : 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ostream(844,32): message : or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(94,10): message : 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ostream(887,32): message : or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(94,10): message : 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ostream(923,31): message : or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(94,10): message : 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ostream(929,31): message : or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(94,10): message : 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ostream(934,31): message : or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(94,10): message : 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ostream(940,31): message : or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(94,10): message : 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ostream(998,9): message : or       '_Ostr &&std::operator <<(_Ostr &&,const _Ty &)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(94,21): message : '_Ostr &&std::operator <<(_Ostr &&,const _Ty &)': could not deduce template argument for '__formal'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ostream(1075,32): message : or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(94,10): message : 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'int'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(97,13): error C2297: '<<': not valid as right operand has type 'const char [8]'
+C:\Users\Alex\Desktop\base-txl-main\base\script\script.cpp(97,13): warning C4552: '<<': result of expression not used
+  interface.cpp
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,32): error C2039: 'format': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\unordered_map(24,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,158): error C2039: 'vformat': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\unordered_map(24,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,180): error C2039: 'make_format_args': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\unordered_map(24,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(26,17): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(26,17): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(90,37): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(100,37): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(110,37): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(121,37): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(132,37): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(139,37): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(146,37): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(153,37): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(196,42): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(196,42): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(196,106): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(196,106): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(196,3): error C2660: 'base::interface::draw_rect': function does not take 1 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(58,18): message : see declaration of 'base::interface::draw_rect'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(196,3): message : while trying to match the argument list '(RGBA)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(197,55): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(197,55): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(197,3): error C2660: 'base::interface::draw_center_text': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(46,18): message : see declaration of 'base::interface::draw_center_text'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(197,3): message : while trying to match the argument list '(const char *, RGBA, float, int, bool)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(204,41): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(204,41): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(204,106): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(204,106): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(204,3): error C2660: 'base::interface::draw_rect': function does not take 1 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(58,18): message : see declaration of 'base::interface::draw_rect'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(204,3): message : while trying to match the argument list '(RGBA)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(205,48): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(205,48): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(205,3): error C2660: 'base::interface::draw_left_text': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(29,18): message : see declaration of 'base::interface::draw_left_text'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(205,3): message : while trying to match the argument list '(const char *, RGBA, float, int, bool)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(206,24): error C2039: 'format': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\future(37,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(206,30): error C3861: 'format': identifier not found
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(206,106): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(206,106): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(206,3): error C2660: 'base::interface::draw_right_text': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(40,18): message : see declaration of 'base::interface::draw_right_text'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(206,3): message : while trying to match the argument list '()'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(214,40): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(214,40): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(214,160): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(214,160): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(214,3): error C2660: 'base::interface::draw_rect': function does not take 1 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(58,18): message : see declaration of 'base::interface::draw_rect'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(214,3): message : while trying to match the argument list '(RGBA)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(231,39): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(231,39): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(231,73): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(231,73): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(231,4): error C2660: 'base::interface::draw_rect': function does not take 1 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(58,18): message : see declaration of 'base::interface::draw_rect'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(231,4): message : while trying to match the argument list '(RGBA)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(238,39): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(238,39): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(238,73): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(238,73): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(238,4): error C2660: 'base::interface::draw_rect': function does not take 1 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(58,18): message : see declaration of 'base::interface::draw_rect'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(238,4): message : while trying to match the argument list '(RGBA)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(248,85): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(248,85): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(248,4): error C2660: 'base::interface::draw_left_text': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(29,18): message : see declaration of 'base::interface::draw_left_text'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(248,4): message : while trying to match the argument list '(const char *, RGBA, float, int, bool)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(253,85): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(253,85): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(253,4): error C2660: 'base::interface::draw_left_text': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(29,18): message : see declaration of 'base::interface::draw_left_text'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(253,4): message : while trying to match the argument list '(const char *, RGBA, float, int, bool)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(272,43): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(272,43): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(272,155): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(272,155): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(272,4): error C2660: 'base::interface::draw_rect': function does not take 1 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(58,18): message : see declaration of 'base::interface::draw_rect'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(272,4): message : while trying to match the argument list '(RGBA)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(275,43): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(275,43): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(275,160): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(275,160): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(275,4): error C2660: 'base::interface::draw_rect': function does not take 1 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(58,18): message : see declaration of 'base::interface::draw_rect'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(275,4): message : while trying to match the argument list '(RGBA)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(292,53): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(292,53): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(292,4): error C2660: 'base::interface::draw_sprite': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(51,18): message : see declaration of 'base::interface::draw_sprite'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(292,4): message : while trying to match the argument list '(const char [11], const char [13], Vector2, float, RGBA)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(295,53): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(295,53): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(295,4): error C2660: 'base::interface::draw_sprite': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(51,18): message : see declaration of 'base::interface::draw_sprite'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(295,4): message : while trying to match the argument list '(const char [11], const char [13], Vector2, float, RGBA)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(314,63): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(314,63): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(314,5): error C2660: 'base::interface::draw_sprite': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(51,18): message : see declaration of 'base::interface::draw_sprite'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(314,5): message : while trying to match the argument list '(const char [11], const char [22], Vector2, float, RGBA)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(315,114): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(315,114): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(315,5): error C2660: 'base::interface::draw_right_text': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(40,18): message : see declaration of 'base::interface::draw_right_text'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(315,5): message : while trying to match the argument list '(const char *, RGBA, float, int, bool)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(318,114): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(318,114): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(318,5): error C2660: 'base::interface::draw_right_text': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(40,18): message : see declaration of 'base::interface::draw_right_text'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(318,5): message : while trying to match the argument list '(const char *, RGBA, float, int, bool)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(323,63): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(323,63): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(323,5): error C2660: 'base::interface::draw_sprite': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(51,18): message : see declaration of 'base::interface::draw_sprite'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(323,5): message : while trying to match the argument list '(const char [11], const char [22], Vector2, float, RGBA)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(324,114): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(324,114): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(324,5): error C2660: 'base::interface::draw_right_text': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(40,18): message : see declaration of 'base::interface::draw_right_text'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(324,5): message : while trying to match the argument list '(const char *, RGBA, float, int, bool)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(327,114): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(327,114): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(327,5): error C2660: 'base::interface::draw_right_text': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(40,18): message : see declaration of 'base::interface::draw_right_text'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(327,5): message : while trying to match the argument list '(const char *, RGBA, float, int, bool)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(357,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(368,33): error C2039: 'format': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\future(37,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(368,39): error C3861: 'format': identifier not found
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(371,63): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(371,63): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(371,5): error C2660: 'base::interface::draw_sprite': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(51,18): message : see declaration of 'base::interface::draw_sprite'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(371,5): message : while trying to match the argument list '(const char [11], const char [22], Vector2, float, RGBA)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(372,99): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(372,99): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(372,5): error C2660: 'base::interface::draw_right_text': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(40,18): message : see declaration of 'base::interface::draw_right_text'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(372,5): message : while trying to match the argument list '(const _Elem *, RGBA, float, int, bool)'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(375,99): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(375,99): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(375,5): error C2660: 'base::interface::draw_right_text': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(40,18): message : see declaration of 'base::interface::draw_right_text'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(375,5): message : while trying to match the argument list '(const _Elem *, RGBA, float, int, bool)'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(380,63): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(380,63): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(380,5): error C2660: 'base::interface::draw_sprite': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(51,18): message : see declaration of 'base::interface::draw_sprite'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(380,5): message : while trying to match the argument list '(const char [11], const char [22], Vector2, float, RGBA)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(381,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(381,114): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(381,114): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(381,5): error C2660: 'base::interface::draw_right_text': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(40,18): message : see declaration of 'base::interface::draw_right_text'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(381,5): message : while trying to match the argument list '(const char *, RGBA, float, int, bool)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(384,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(384,114): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(384,114): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(384,5): error C2660: 'base::interface::draw_right_text': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(40,18): message : see declaration of 'base::interface::draw_right_text'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(384,5): message : while trying to match the argument list '(const char *, RGBA, float, int, bool)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(428,33): error C2039: 'format': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\future(37,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(428,39): error C3861: 'format': identifier not found
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(431,63): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(431,63): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(431,5): error C2660: 'base::interface::draw_sprite': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(51,18): message : see declaration of 'base::interface::draw_sprite'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(431,5): message : while trying to match the argument list '(const char [11], const char [22], Vector2, float, RGBA)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(432,99): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(432,99): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(432,5): error C2660: 'base::interface::draw_right_text': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(40,18): message : see declaration of 'base::interface::draw_right_text'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(432,5): message : while trying to match the argument list '(const _Elem *, RGBA, float, int, bool)'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(435,99): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(435,99): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(435,5): error C2660: 'base::interface::draw_right_text': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(40,18): message : see declaration of 'base::interface::draw_right_text'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(435,5): message : while trying to match the argument list '(const _Elem *, RGBA, float, int, bool)'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(440,63): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(440,63): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(440,5): error C2660: 'base::interface::draw_sprite': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(51,18): message : see declaration of 'base::interface::draw_sprite'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(440,5): message : while trying to match the argument list '(const char [11], const char [22], Vector2, float, RGBA)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(441,99): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(441,99): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(441,5): error C2660: 'base::interface::draw_right_text': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(40,18): message : see declaration of 'base::interface::draw_right_text'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(441,5): message : while trying to match the argument list '(const _Elem *, RGBA, float, int, bool)'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(444,99): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(444,99): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(444,5): error C2660: 'base::interface::draw_right_text': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(40,18): message : see declaration of 'base::interface::draw_right_text'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(444,5): message : while trying to match the argument list '(const _Elem *, RGBA, float, int, bool)'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(483,33): error C2039: 'format': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\future(37,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(483,39): error C3861: 'format': identifier not found
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(486,54): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(486,54): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(486,5): error C2660: 'base::interface::draw_sprite': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(51,18): message : see declaration of 'base::interface::draw_sprite'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(486,5): message : while trying to match the argument list '(const char [11], const char [13], Vector2, float, RGBA)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(487,63): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(487,63): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(487,5): error C2660: 'base::interface::draw_sprite': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(51,18): message : see declaration of 'base::interface::draw_sprite'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(487,5): message : while trying to match the argument list '(const char [11], const char [22], Vector2, float, RGBA)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(488,99): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(488,99): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(488,5): error C2660: 'base::interface::draw_right_text': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(40,18): message : see declaration of 'base::interface::draw_right_text'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(488,5): message : while trying to match the argument list '(const _Elem *, RGBA, float, int, bool)'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(491,54): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(491,54): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(491,5): error C2660: 'base::interface::draw_sprite': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(51,18): message : see declaration of 'base::interface::draw_sprite'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(491,5): message : while trying to match the argument list '(const char [11], const char [13], Vector2, float, RGBA)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(492,99): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(492,99): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(492,5): error C2660: 'base::interface::draw_right_text': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(40,18): message : see declaration of 'base::interface::draw_right_text'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(492,5): message : while trying to match the argument list '(const _Elem *, RGBA, float, int, bool)'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(497,54): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(497,54): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(497,5): error C2660: 'base::interface::draw_sprite': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(51,18): message : see declaration of 'base::interface::draw_sprite'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(497,5): message : while trying to match the argument list '(const char [11], const char [13], Vector2, float, RGBA)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(498,63): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(498,63): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(498,5): error C2660: 'base::interface::draw_sprite': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(51,18): message : see declaration of 'base::interface::draw_sprite'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(498,5): message : while trying to match the argument list '(const char [11], const char [22], Vector2, float, RGBA)'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(499,99): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(499,99): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(499,5): error C2660: 'base::interface::draw_right_text': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(40,18): message : see declaration of 'base::interface::draw_right_text'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(499,5): message : while trying to match the argument list '(const _Elem *, RGBA, float, int, bool)'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(502,54): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Vector2'
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(502,54): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(502,5): error C2660: 'base::interface::draw_sprite': function does not take 5 arguments
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(502,276): fatal  error C1003: error count exceeds 100; stopping compilation
+  utilities.cpp
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,32): error C2039: 'format': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\unordered_map(24,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,158): error C2039: 'vformat': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\unordered_map(24,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(23,180): error C2039: 'make_format_args': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\unordered_map(24,1): message : see declaration of 'std'
+C:\Users\Alex\Desktop\base-txl-main\base\log\log.hpp(20,8): message : This diagnostic occurred in the compiler generated function 'void base::log::send(std::string,std::string,arguments...)'
+C:\Users\Alex\Desktop\base-txl-main\base\utilities\utilities.cpp(42,21): error C2079: 'ss' uses undefined class 'std::basic_stringstream<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\Alex\Desktop\base-txl-main\base\utilities\utilities.cpp(43,6): error C2297: '<<': not valid as right operand has type 'double'
+C:\Users\Alex\Desktop\base-txl-main\base\utilities\utilities.cpp(43,6): warning C4552: '<<': result of expression not used
+C:\Users\Alex\Desktop\base-txl-main\base\utilities\utilities.cpp(45,21): error C2079: 's' uses undefined class 'std::basic_stringstream<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\Alex\Desktop\base-txl-main\base\utilities\utilities.cpp(46,5): error C2297: '<<': not valid as right operand has type 'double'
+C:\Users\Alex\Desktop\base-txl-main\base\utilities\utilities.cpp(46,5): warning C4552: '<<': result of expression not used
+C:\Users\Alex\Desktop\base-txl-main\base\utilities\utilities.cpp(77,21): error C2079: 'ss' uses undefined class 'std::basic_stringstream<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\Alex\Desktop\base-txl-main\base\utilities\utilities.cpp(77,28): error C2297: '<<': not valid as right operand has type 'const char [11]'
+C:\Users\Alex\Desktop\base-txl-main\base\utilities\utilities.cpp(77,44): warning C4552: '<<': result of expression not used
+  Generating Code...

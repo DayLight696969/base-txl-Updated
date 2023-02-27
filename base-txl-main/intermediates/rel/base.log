@@ -1,0 +1,34 @@
+﻿  core.cpp
+  entrypoint.cpp
+  fiber.cpp
+  hooking.cpp
+  invoker.cpp
+  log.cpp
+  memory.cpp
+  common.cpp
+  pointers.cpp
+  script.cpp
+C:\Users\Alex\Desktop\base-txl-main\base\memory\memory.cpp(112,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  interface.cpp
+  utilities.cpp
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(90,37): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(100,37): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(110,37): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(121,37): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(132,37): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(139,37): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(146,37): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(153,37): warning C4244: '=': conversion from 'ULONGLONG' to 'int', possible loss of data
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(357,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(381,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(384,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alex\Desktop\base-txl-main\base\ui\interface.cpp(602,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1758 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+minhook.lib(hook.obj) : warning LNK4099: PDB '' was not found with 'minhook.lib(hook.obj)' or at ''; linking object as if no debug info
+minhook.lib(buffer.obj) : warning LNK4099: PDB '' was not found with 'minhook.lib(buffer.obj)' or at ''; linking object as if no debug info
+minhook.lib(trampoline.obj) : warning LNK4099: PDB '' was not found with 'minhook.lib(trampoline.obj)' or at ''; linking object as if no debug info
+minhook.lib(hde64.obj) : warning LNK4099: PDB '' was not found with 'minhook.lib(hde64.obj)' or at ''; linking object as if no debug info
+  base.vcxproj -> C:\Users\Alex\Desktop\base-txl-main\out\rel\base by txl.dll
